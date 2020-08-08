@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login_Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83e54ea6-b023-454d-b1f1-ac217beadc28</testCaseGuid>
+</TestCaseEntity>
